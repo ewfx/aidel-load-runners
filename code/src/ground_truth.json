@@ -1,0 +1,112 @@
+[[
+    {
+        "entity": "Global Horizon Consulting LLC",
+        "category": "Corporation"
+    },
+    {
+        "entity": "Swiss Bank",
+        "category": "Bank"
+    },
+    {
+        "entity": "Bright Future Nonprofit Inc",
+        "category": "Non-Profit Organization"
+    },
+    {
+        "entity": "Cayman National Bank",
+        "category": "Bank"
+    },
+    {
+        "entity": "Mr. Ali Al-Mansoori",
+        "category": "Person"
+    },
+    {
+        "entity": "Quantum Holding Ltd",
+        "category": "Corporation"
+    }
+],
+    
+[
+    {
+        "entity": "Quantum Holdings Ltd",
+        "category": "Corporation"
+    },
+    {
+        "entity": "Maria Gonzalez",
+        "category": "Person"
+    },
+    {
+        "entity": "Golden Sands Trading FZE",
+        "category": "Corporation"
+    },
+    {
+        "entity": "Deutsche Bank Frankfurt",
+        "category": "Bank"
+    },
+    {
+        "entity": "Emirates NBD Dubai",
+        "category": "Bank"
+    },
+    {
+        "entity": "Mr. Viktor Petrov",
+        "category": "Politically Exposed Person"
+    },
+    {
+        "entity": "OFAC",
+        "category": "Government Agency"
+    }
+],
+
+[
+    {
+        "entity": "Acme Corp",
+        "category": "Corporation"
+    },
+    {
+        "entity": "SovCo Capital Partners",
+        "category": "Corporation"
+    }
+],
+
+[
+    {
+        "entity": "Global Health Foundation",
+        "category": "Non-Profit Organization"
+    },
+    {
+        "entity": "Save the Children",
+        "category": "Non-Profit Organization"
+    }
+], 
+    
+[
+    {
+        "entity": "XYZ Ltd",
+        "category": "Corporation"
+    },
+    {
+        "entity": "ABC GmbH",
+        "category": "Corporation"
+    }
+],
+    
+[
+    {
+        "entity": "Green Earth Org",
+        "category": "Non-Profit Organization"
+    },
+    {
+        "entity": "CCMI",
+        "category": "Non-Profit Organization"
+    }
+],
+    
+[
+    {
+        "entity": "Oceanic Holdings LLC",
+        "category": "Corporation"
+    },
+    {
+        "entity": "Alas Chiricanas",
+        "category": "Shell Company"
+    }
+]]
