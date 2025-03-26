@@ -1,6 +1,5 @@
-[Legitimate trade transaction between well-established shipping firms. Everest Global Logistics and 
 Risk Score:0.28
-Reason: Atlantic Shipping Co. are registered entities as per https://www.lloydslist.com/. Payment routed through HSBC and Wells Fargo, both highly regulated institutions per https://www.fca.org.uk/.
+Reason: Legitimate trade transaction between well-established shipping firms. Everest Global Logistics and Atlantic Shipping Co. are registered entities as per https://www.lloydslist.com/. Payment routed through HSBC and Wells Fargo, both highly regulated institutions per https://www.fca.org.uk/.
 
 ---
 
