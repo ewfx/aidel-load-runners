@@ -1,3 +1,1 @@
-## Delete this file
-
-Instead place your test files here
+The data used to train and test the model have been deposited here
