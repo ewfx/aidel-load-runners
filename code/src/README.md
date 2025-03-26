@@ -1,3 +1,1 @@
-## Delete this file
-
-Instead place your source files here
+This folder contains four notebooks covering entity recognition and classification, external data integration, risk analysis and scoring, and confidence score calculation. Each notebook includes a detailed description along with sample outputs
